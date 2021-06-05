@@ -1,5 +1,5 @@
-#Category - General Skills
-#Author - SYREAL
+# Category - General Skills
+# Author - SYREAL
 Description
 Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `6d448c9c`
 
@@ -9,7 +9,7 @@ This challenge launches an instance on demand.
 Its current status is: NOT_RUNNING
 
 
-zerodaytea@Patryk:~$ ssh ctf-player@venus.picoctf.net -p 52218
+'''zerodaytea@Patryk:~$ ssh ctf-player@venus.picoctf.net -p 52218
 The authenticity of host '[venus.picoctf.net]:52218 ([3.131.124.143]:52218)' can't be established.
 ECDSA key fingerprint is SHA256:NrQkIxNEQQho/GA7jE0WlIa7Jh4VF9sAvC5awkbuj1Q.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
@@ -33,3 +33,4 @@ Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
 applicable law.
 
 ctf-player@pico-chall$
+'''
