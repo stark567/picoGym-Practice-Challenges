@@ -35,3 +35,16 @@ applicable law.
 
 ctf-player@pico-chall$
 ```
+
+
+if this is the first time you are sshing to the particular network you will have to type "yes" aftering being prompted whether to add the network host to the list of your computer's known hosts. We are then prompted for the password to our ctf-player user which we get from the description and are able to get our bash shell. Looking at the files in our current directory we see a "1of3.flag.txt" file which we cat out as well as a "instructions-to-2of3.txt" file which we cat out to get a hint for where to find the next part of the flag.
+
+```
+ctf-player@pico-chall$ ls
+1of3.flag.txt  instructions-to-2of3.txt
+ctf-player@pico-chall$ cat 1of3.flag.txt
+picoCTF{xxsh_
+ctf-player@pico-chall$ cat instructions-to-2of3.txt
+Next, go to the root of all things, more succinctly `/`
+ctf-player@pico-chall$
+```
