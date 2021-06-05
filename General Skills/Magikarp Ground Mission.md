@@ -79,7 +79,7 @@ ctf-player@pico-chall$
 ```
 picoCTF{xxsh_0ut_0f_\/\/4t3r_c1754242}
 ```
-# About mine 
+# i spend  
 
 Time  | Date
 ------------ | -------------
