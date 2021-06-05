@@ -80,5 +80,9 @@ ctf-player@pico-chall$
 picoCTF{xxsh_0ut_0f_\/\/4t3r_c1754242}
 ```
 
-My Time to solve this challenge 
+i take time to solve this challenge is
 * 13m27s36
+
+Date 
+-
+- 6/5/21
