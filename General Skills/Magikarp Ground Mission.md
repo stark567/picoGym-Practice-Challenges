@@ -9,7 +9,8 @@ This challenge launches an instance on demand.
 Its current status is: NOT_RUNNING
 
 
-'''zerodaytea@Patryk:~$ ssh ctf-player@venus.picoctf.net -p 52218
+```
+zerodaytea@Patryk:~$ ssh ctf-player@venus.picoctf.net -p 52218
 The authenticity of host '[venus.picoctf.net]:52218 ([3.131.124.143]:52218)' can't be established.
 ECDSA key fingerprint is SHA256:NrQkIxNEQQho/GA7jE0WlIa7Jh4VF9sAvC5awkbuj1Q.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
@@ -33,4 +34,4 @@ Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
 applicable law.
 
 ctf-player@pico-chall$
-'''
+```
